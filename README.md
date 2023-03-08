@@ -16,6 +16,7 @@ The main project site is https://bldgict.github.io/.
 ## Copyright
 
 Prototype building model for low-income housing Copyright (c) 2023, Korea Institute of Energy Research. All rights reserved.
+
 This model was developed under funding from the Korea Energy Foundation consequently retains certain rights.
 
 ## Citation
