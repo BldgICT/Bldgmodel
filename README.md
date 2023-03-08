@@ -5,7 +5,7 @@ This is a prototype building model for low-income housing in South Korea and its
 
 The main project site is https://bldgict.github.io/.
 
-.. image:: figures/bldg_geo.png
+.. image:: figures/bldg_geo.jpeg
 
 ## Model description
 
