@@ -3,6 +3,8 @@
 ## Background
 This is a prototype building model for low-income housing in South Korea and its user guide. The geometry and input data (e.g., U-value, heating and cooling system specifications) of the model are based on the results of field surveys by Korea Energy Foundation (KOREF) and Korea Institute of Energy Research (KIER). This model can be opened with EnergyPlus version 8.9.
 
+The main project site is https://bldgict.github.io/.
+
 ## Model description
 
 - a box-shaped building,
@@ -10,8 +12,6 @@ This is a prototype building model for low-income housing in South Korea and its
 - HVAC systems
   - cooling: air conditioner, standing fan
   - heating: radiant heating+boiler, electric mat
-
-The main project site is https://bldgict.github.io/.
 
 ## Copyright
 
