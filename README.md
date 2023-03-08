@@ -11,7 +11,7 @@ The main project site is https://bldgict.github.io/construction.
 - weather: contains weather data (.epw) for 4 regions in Korea (source: https://energyplus.net/weather)
 - spec: contains specification sheet (.xlsx)
 
-## Model description
+## Model summary
 - a box-shaped building
 - low airtightness performance
 - HVAC systems
@@ -19,11 +19,9 @@ The main project site is https://bldgict.github.io/construction.
   - heating: radiant heating+boiler, electric mat
 
 ## Copyright
-
 Prototype building model for low-income housing Copyright (c) 2023, Korea Institute of Energy Research. All rights reserved. This model was developed under funding from the Korea Energy Foundation consequently retains certain rights.
 
 ## Citation
-
 To cite the model, use
 
 Nam, Hye-Ryeong, Seo-Hoon Kim, Seol-Yee Han, Sung-Jin Lee, Won-Hwa Hong, and Jong-Hun Kim.
