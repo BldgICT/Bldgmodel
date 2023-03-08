@@ -27,7 +27,7 @@ Statistical methodology for the definition of standard model for energy analysis
 _Energies_, 13(21), 5796, 2020.
 
 ```
-@Article{WetterZuoNouiduiPang2014,
+@Article{
   author  =  {Nam, Hye-Ryeong, Seo-Hoon Kim, Seol-Yee Han, Sung-Jin Lee, Won-Hwa Hong, and Jong-Hun Kim},
   title   =  {Statistical methodology for the definition of standard model for energy analysis of residential buildings in Korea},
   journal =  {Energies},
