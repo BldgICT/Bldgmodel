@@ -1,38 +1,26 @@
-# Low-income building model (EnergyPlus)
+# Prototype building model for low-income housing
 
-This is the low-income building model for EnergyPlus simulation and its user guide.
+## Background
+This is a prototype building model for low-income housing in South Korea and its user guide. The geometry and input data (e.g., U-value, heating and cooling system specifications) of the model are based on the results of field surveys by Korea Energy Foundation (KOREF) and Korea Institute of Energy Research (KIER). This model can be opened with EnergyPlus version 8.9.
 
 ## Model description
 
-- HVAC systems,
-- energy storage,
-- controls, including a reference implementation of ASHRAE Standard 231P,
-- heat transfer among rooms and the outside, either
-  - natively in Modelica with a detailed or a reduced order model, or
-  - integrated run-time coupling with EnergyPlus, aka, Spawn of EnergyPlus
-- multizone airflow, including natural ventilation and contaminant transport,
-- single-zone computational fluid dynamics coupled to heat transfer and HVAC systems,
-- data-driven load prediction for demand response applications, and
-- electrical DC and AC systems with two- or three-phases that can be balanced and unbalanced.
+- a box-shaped building,
+- low airtightness performance,
+- HVAC systems
+  - cooling: air conditioner, standing fan
+  - heating: radiant heating+boiler, electric mat
 
 The main project site is https://bldgict.github.io/.
 
-## License
+## Copyright
 
-The Modelica _Buildings_ Library is available under a 3-clause BSD-license.
-See [Modelica Buildings Library license](https://htmlpreview.github.io/?https://github.com/lbl-srg/modelica-buildings/blob/master/Buildings/legal.html).
-
-Python modules are available under a 3-clause BSD-license. See [BuildingsPy license](http://simulationresearch.lbl.gov/modelica/buildingspy/legal.html).
-
-## Development and contribution
-You may report any issues with using the [Issues](https://github.com/lbl-srg/modelica-buildings/issues) button.
-
-Contributions in the form of [Pull Requests](https://github.com/lbl-srg/modelica-buildings/pulls) are always welcome.
-Prior to issuing a pull request, make sure your code follows the [style guide and coding conventions](https://github.com/lbl-srg/modelica-buildings/wiki/Style-Guide).
+Prototype building model for low-income housing Copyright (c) 2023, Korea Institute of Energy Research. All rights reserved.
+This model was developed under funding from the Korea Energy Foundation consequently retains certain rights.
 
 ## Citation
 
-To cite the library, use
+To cite the model, use
 
 Nam, Hye-Ryeong, Seo-Hoon Kim, Seol-Yee Han, Sung-Jin Lee, Won-Hwa Hong, and Jong-Hun Kim.
 Statistical methodology for the definition of standard model for energy analysis of residential buildings in Korea.
