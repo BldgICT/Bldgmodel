@@ -6,10 +6,14 @@ This is a prototype building model for low-income housing in South Korea and its
 The main project site is https://bldgict.github.io/construction.
 ![이미지 alt](/figures/bldg_geo.jpeg)
 
-## Model description
+## Contents
+- model: contains model file (.idf)
+- weather: contains weather data (.epw) for 4 regions in Korea (source: https://energyplus.net/weather)
+- spec: contains specification sheet (.xlsx)
 
-- a box-shaped building,
-- low airtightness performance,
+## Model description
+- a box-shaped building
+- low airtightness performance
 - HVAC systems
   - cooling: air conditioner, standing fan
   - heating: radiant heating+boiler, electric mat
